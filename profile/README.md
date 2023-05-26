@@ -7,7 +7,7 @@ Ernest Umensofor\
 Gboyega Adenaike
 
 ## Topic
-A End to End Machine learning project usingg the Spaceship titanic Dataset
+An End to End Machine learning project usingg the Spaceship titanic Dataset
 
 ## Method
 
